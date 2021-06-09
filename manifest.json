@@ -1,0 +1,37 @@
+{
+	"author": "ker@edu",
+	"name": "kerala@edu",
+	"short_name": "kerala@edu",
+	"description": "web portal|  |Aibal Jose & Joyal Jose",
+	"orientation": "portrait",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "grey",
+	"theme_color": "#00FFFF",
+	"icons": [
+		{
+			"src": "20.png",
+			"sizes": "20x20",
+			"type": "image/png"
+		},
+		{
+			"src": "40.png",
+			"sizes": "40x40",
+			"type": "image/png"
+		},
+		{
+			"src": "60.png",
+			"sizes": "60x60",
+			"type": "image/png"
+		}
+		
+	],
+	"manifest_version": 2,
+	"version": "0.2",
+	"applications": {
+		"gecko": {
+			"id": "aibaljosej@gmail.com"
+		}
+	}
+}
