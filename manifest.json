@@ -24,6 +24,12 @@
 			"src": "icons8-home-144.png",
 			"sizes": "144x144",
 			"type": "image/png"
+		},
+		{
+			"src": "icons8-home-144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+			"purpose": "any maskable"
 		}
 		
 	],
